@@ -1,6 +1,6 @@
 {
     "Creator": "https://wa.me/6281392382101",
-    "Access": {
+    "Access": [
       "6281392382101"
     ],
     "Access_Bot": [
